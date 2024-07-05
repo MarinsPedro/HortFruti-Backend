@@ -1,0 +1,6 @@
+@HortFruti_HostAddress = http://localhost:5128
+
+GET {{HortFruti_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
