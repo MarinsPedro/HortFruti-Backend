@@ -19,6 +19,7 @@ namespace HortFruti
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
+                string nome = "Lucas Bernardes";
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
