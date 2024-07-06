@@ -363,4 +363,5 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /HortFruti/HortFruti/obj
-/HortFruti/HortFruti/obj
+HortFruti/HortFruti/obj/Debug/net8.0/HortFruti.AssemblyInfoInputs.cache
+HortFruti/HortFruti/obj/Debug/net8.0/HortFruti.AssemblyInfo.cs
